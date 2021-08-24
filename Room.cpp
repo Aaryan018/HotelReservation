@@ -1,7 +1,6 @@
 //Room.cpp file
 //Description: This progam implements the class in Room.h file.
 //Author: Aaryan Gupta
-//Creation Date: May 22, 2021
 
 #include<iostream>
 #include "Room.h"
