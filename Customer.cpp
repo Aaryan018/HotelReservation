@@ -1,7 +1,7 @@
 //Customer.cpp file
 //Description: This program implements the class in Customer.h file
 //Author: Aaryan Gupta
-//Creation Date: May 22, 2021
+
 
 #include<iostream>
 #include "Customer.h"
