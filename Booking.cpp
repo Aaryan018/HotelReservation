@@ -1,7 +1,6 @@
 //Booking.cpp file
 //Description: This class models a hotel reservation system that books hotel rooms for customers.
 //Author: Aaryan Gupta
-//Creation Date: May 13, 2021
 
 #include<iostream>
 #include<fstream>
