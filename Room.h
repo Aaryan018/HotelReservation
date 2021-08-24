@@ -1,7 +1,6 @@
 //Room.cpp file
 //Description: This class models rooms for a hotel
 //Author: Aaryan Gupta
-//Creation Date: May 22, 2021
 
 #ifndef ROOM_H
 #define ROOM_H
