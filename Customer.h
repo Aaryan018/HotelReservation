@@ -1,7 +1,6 @@
 //Customer.h file
 //Description: This class models the customers booking a room in a hotel.
 //Author: Aaryan Gupta
-//Creation Date: May 22, 2021
 
 #ifndef CUSTOMER_H
 #define CUSTOMER_H
